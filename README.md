@@ -33,7 +33,7 @@ The training framework of Si3N4 deep learning potential, two-stage strategy:
 
 * configs：configs/stress\_finetune.json
 * steps：10000
-* Loss weight：pref\_v 0.001 到 0.01
+* Loss weight：pref\_v 0.001 to 0.01
 * input：graph\_no\_stress\_new.pb
 * output：models/graph\_stress\_finetuned.pb
 
